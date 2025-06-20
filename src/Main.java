@@ -4,7 +4,7 @@ class Counter {
     public void increment() {
         count++;
     }
-
+    
     public int getCount() {
         return count;
     }
